@@ -2,7 +2,7 @@
 
 A digital resume website built based on the content from my personal REAL [resume](./assets/Abdul Haadi Resume.pdf) 
 
-View live demo here using github pages: [Live Demo]([https://iabdulhaadi.github.io/CV/])
+View live demo here using github pages: [Live Demo](https://iabdulhaadi.github.io/CV/)
 
 ## Dark Mode Preview
 
